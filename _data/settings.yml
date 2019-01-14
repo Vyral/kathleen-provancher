@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a Vero Beach Home?"
     CTA_text2: "Search the entire MLS for your Vero Beach home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://kprovancher.sorensenrealestate.com/sorensen/index.asp?p=findahome.asp&mode=N
+    CTA_url2: https://www.buyandsellvero.com/map/
 
 lender:
   show_section: false
