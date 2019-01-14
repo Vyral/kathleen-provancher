@@ -34,7 +34,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.buyandsellvero.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: https://kprovancher.sorensenrealestate.com/sorensen/index.asp?p=findahome.asp&mode=N
+  second_CTA_URL: https://www.buyandsellvero.com/map/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
