@@ -34,7 +34,7 @@ As a seasoned professional, the underlying cause of these reductions is clear to
 
 This is part of the reason having an experienced real estate professional working on your behalf is so important. Your agent should be happy to provide you with a custom market analysis, which will use local real estate data to determine how you should price your home.
 
-Overpricing will inevitably cause your home to sit on the market, which means that, even after you make a reduction, buyers may be still be hesitant to make an offer. **When buyers see that a home has been on the market for a long time, they may believe there’s something wrong with it.**
+Overpricing will inevitably cause your home to sit on the market, which means that even after you make a reduction, buyers may still be hesitant to make an offer. **When buyers see that a home has been on the market for a long time, they may believe there’s something wrong with it.**
 
 Don’t let this happen to you. Price your home correctly from the start so that you can take advantage of today’s real estate market.
 
