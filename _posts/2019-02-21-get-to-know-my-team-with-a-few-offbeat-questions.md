@@ -27,7 +27,7 @@ The first member of my team that I’d like you all to meet is **Shawn Venazio.*
 
 **“Your favorite part of being a Realtor?”&nbsp;***My favorite part of being a Realtor is having a happy seller or buyer.*
 
-**“Your favorite part of being on our team?”** *It’s fun, provides a wealth of knowledge, and everybody brings something else to the table on this team. Whenever I need questions asked, all I have to do is pick up the phone and call.*
+**“Your favorite part of being on our team?”** *It’s fun, provides a wealth of knowledge, and everybody brings something else to the table on this team. Whenever I need questions answered, all I have to do is pick up the phone and call.*
 
 **“What do you want people to know about you?”&nbsp;***That I am fair, loyal, and honest, and I will definitely do my best to help you in any way.*
 
@@ -53,7 +53,7 @@ The next team member to run through my battery of unconventional questions is **
 
 **“What do you want people to know about you?”&nbsp;***That I am honest, fun, knowledgeable, and that I like to laugh.*
 
-**“What’s your favorite day of the week?”&nbsp;***Friday*
+**“What’s your favorite day of the week?”&nbsp;***Friday.*
 
 **“Text, FaceTime, or email?”** *Text.*
 
