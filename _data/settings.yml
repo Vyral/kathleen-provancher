@@ -32,23 +32,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.buyandsellvero.com/sell/
+  first_CTA_URL: https://www.buyandsellvero.com/what-is-my-home-worth
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.buyandsellvero.com/map/
+  second_CTA_URL: https://www.buyandsellvero.com/search/criteria/gp_1/nids_493127/s_2
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Vero Beach Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.buyandsellvero.com/sell/
+    CTA_url: https://www.buyandsellvero.com/what-is-my-home-worth
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Vero Beach Home?"
     CTA_text2: "Search the entire MLS for your Vero Beach home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.buyandsellvero.com/map/
+    CTA_url2: https://www.buyandsellvero.com/search/criteria/gp_1/nids_493127/s_2
 
 lender:
   show_section: false
