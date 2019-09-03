@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: Don’t Be Scared of FHA Loans'
-date: 2019-09-03 20:49:16
+date: 2019-09-03 08:49:00
 tags:
   - Real Estate
 excerpt: >-
