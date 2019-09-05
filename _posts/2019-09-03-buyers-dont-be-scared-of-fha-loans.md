@@ -31,7 +31,7 @@ FHA loans aren’t just for first-time buyers, either. If your credit isn’t pe
 
 {% include pullquote.html %}
 
-Caliber Home Loans gets creative when it comes to FHA loans, which brings me to another important point: **To truly know whether an FHA loan can work for you, you’re much better off working with a local lender.** If you call a national bank, you’ll likely end up talking to someone at a call center who won’t know anything about your situation or what’s best for you. A lender like Shannon will now only know all the tips and tricks to get you into a bigger, better house, but she’ll also know your name and your kids’ names.&nbsp;
+Caliber Home Loans gets creative when it comes to FHA loans, which brings me to another important point: **To truly know whether an FHA loan can work for you, you’re much better off working with a local lender.** If you call a national bank, you’ll likely end up talking to someone at a call center who won’t know anything about your situation or what’s best for you. A lender like Shannon will not only know all the tips and tricks to get you into a bigger, better house, but she’ll also know your name and your kids’ names.&nbsp;
 
 Some sellers and listing agents are wary of FHA loans, but with loan balances as high as they are, appraisers will look at the same factors when doing their appraisal, so it’s not a deterrent anymore. Additionally, some listing agents aren’t familiar with FHA loans, but in this case, Shannon can always get on the phone with them and discuss any issues that give them pause. **If you limit yourself to just using a conventional loan, you’re limiting your ability to make full-price offers.&nbsp;**
 
