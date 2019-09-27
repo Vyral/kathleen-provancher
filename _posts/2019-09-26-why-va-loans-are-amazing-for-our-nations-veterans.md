@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-date: 2019-09-26 21:43:40
+title: Why VA Loans Are Amazing for Our Nation’s Veterans
+date: 2019-09-26 21:43:00
 tags:
 excerpt: >-
   Today, Shannon Pohl from Caliber Home Loans joins me to discuss VA home loans.
@@ -24,7 +24,7 @@ Shannon Pohl is the producing branch manager of Caliber Home Loans right here in
 
 Caliber Home Loans is a leader in the industry for serving our veterans who have served us, and they pride themselves on doing well for them. VA loans are great 100% financing options for veterans; if you have a disability as a veteran, no funding fee will be applied to you.
 
-To be eligible, a veteran must have a DD 214 form, or a certificate of eligibility, which Shannon can pull in her office. If there are any issues or questions, she can work with the VA to iron those out. Especially with online companies, getting a certificate of eligibility can be difficult, but as a listing agent, I will tell you that Caliber Home Loans does make it easy.
+To be eligible, a veteran must have a DD Form 214, or a certificate of eligibility, which Shannon can pull in her office. If there are any issues or questions, she can work with the VA to iron those out. Especially with online companies, getting a certificate of eligibility can be difficult, but as a listing agent, I will tell you that Caliber Home Loans does make it easy.
 
 {% include pullquote.html %}
 
