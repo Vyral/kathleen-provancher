@@ -20,7 +20,7 @@ youtube_code:
 
 According to [*Trulia*](https://www.trulia.com/guides/mortgage-terms/){: target="_blank" rel="noopener"}\:&nbsp;
 
-“*When you close on a home, a number of fees are due. They typically range from 2% to 5% of the total cost of the home,&nbsp;**and can include title insurance, origination fees, underwriting fees, document preparation fees, and more*.”
+“*When you close on a home, a number of fees are due. They typically range from 2% to 5% of the total cost of the home, \*\*and can include title insurance, origination fees, underwriting fees, document preparation fees, and more*.”
 
 For example, for someone buying a $300,000 home, they could potentially have between $6,000 and $15,000 in closing fees. If you’re in the market for a home above this price range, your closing costs could be greater. As mentioned above,&nbsp;**closing costs are typically between 2% and 5% of your purchase price.****&nbsp;**
 
