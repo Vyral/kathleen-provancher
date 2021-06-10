@@ -13,6 +13,10 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/whats-motivating-people-to-move-right-now-1.png
 youtube_code:
 ---
+&nbsp;
+
+&nbsp;
+
 This year, Americans are moving for a variety of reasons. The health crisis has truly reshaped our lifestyles and our needs. Spending so much more time in our current homes has driven many people to reconsider what homeownership means and what they find most valuable in their living spaces.
 
 According to the&nbsp;[2020 Annual National Movers Study](https://www.unitedvanlines.com/newsroom/movers-study-2020) :
@@ -21,7 +25,7 @@ According to the&nbsp;[2020 Annual National Movers Study](https://www.unitedvanl
 
 With a new perspective on homeownership, here are some of the reasons people are reconsidering where they live and making moves right now.
 
-## 1\. Working from Home
+## **1\. Working from Home**
 
 With the current health crisis, many companies opted to remote work which became the new norm. As a result, many employee and workforce discovered that there's no need for them to be close to their office and save more money for themselves if they move further outside of the city limits. [Apartment list](https://www.apartmentlist.com/research/remote-work-wealthy-americans-moving-again){: target="_blank" rel="noopener"} quoted:&nbsp;
 
@@ -29,7 +33,7 @@ With the current health crisis, many companies opted to remote work which became
 
 In case you're needing a bigger room for your new home office, it might be time to look for a larger home. Because in reality, your current house is not that optimized for your work from home setup.
 
-## 2\. Space For Fitness Activities
+## **2\. Space For Fitness Activities**
 
 Staying fit and healthy is a priority for many Americans and with the current situation, more and more people are looking for a house that can accommodate their fitness needs. A recent [survey](https://runrepeat.com/fitness-trends){: target="_blank" rel="noopener"}&nbsp;from 122 countries noted the fastest growing fitness trends amongst adults:
 
@@ -39,7 +43,7 @@ Staying fit and healthy is a priority for many Americans and with the current si
 
 Having a room dedicated to staying fit and healthy might be one of the reason why you may want to look for a new home.
 
-## 3\.&nbsp;**Outdoor Space**
+## **3\. Outdoor Space**
 
 Whether you're cooking, exercising, or just want to have a place to chill and hang out. Many people considers outdoor space as a factor in moving. [Better&nbsp; Homes & Gardens](https://www.bhg.com/home-improvement/porch/outdoor-rooms/2021-outdoor-living-trends/){: target="_blank" rel="noopener"}&nbsp;released the top outdoor living trends for this year:&nbsp;
 
@@ -47,7 +51,7 @@ Whether you're cooking, exercising, or just want to have a place to chill and ha
 * Edible Garden: Millions of people began gardening during the pandemic . . . to supplement pantries with homegrown fruits, vegetables, and herbs.
 * Secluded Spaces: As outdoor activity increases, so does the need for privacy.
 
-## Summary
+## **Summary**
 
 If you're looking to get the best value out of your money and you had plans to move, now might be the best time to do so and take advantage of the low mortgage rates.
 
