@@ -13,8 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/whats-motivating-people-to-move-right-now-1.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 This year, Americans are moving for a variety of reasons. The health crisis has truly reshaped our lifestyles and our needs. Spending so much more time in our current homes has driven many people to reconsider what homeownership means and what they find most valuable in their living spaces.
 
 According to the&nbsp;[2020 Annual National Movers Study](https://www.unitedvanlines.com/newsroom/movers-study-2020) :
