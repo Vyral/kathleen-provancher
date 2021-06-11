@@ -32,6 +32,4 @@ The most important thing to read is the closing disclosure, which shows your loa
 
 ## **SUMMARY**
 
-&nbsp;
-
 As home prices are rising and more buyers are finding themselves competing in bidding wars, it’s more important than ever to make sure your plan includes budgeting for closing costs. Let’s connect to be sure you have everything you need to land your dream home.
