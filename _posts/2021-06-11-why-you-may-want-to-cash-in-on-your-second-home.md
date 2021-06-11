@@ -39,6 +39,6 @@ A tough decision awaits the buyers of those second homes. A lot of people will m
 * Now that you may have to go back to the office (at least a few days a week) and students are required to physically attend school, would you still use the second house enough to warrant the expenses of an additional home?
 * Would you go to the second home on most weekends, or would you return to the movie theater, attend sporting events, eat out at fine restaurants, or spend your time traveling again?
 
-## Summary
+## **Summary**
 
 If you purchased a larger second home during the pandemic, you were able to make day-to-day life much easier for those important to you. You also made it much safer. However, with those goals already accomplished, you now need to decide whether to continue paying the extra expenses or sell the house and cash in your profit. If you decide selling makes sense, let’s connect today to discuss the value of your second home.
