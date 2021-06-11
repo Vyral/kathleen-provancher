@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/whats-motivating-people-to-move-right-now-2.png
 youtube_code:
 ---
-# What are Closing Cost?
+# **What are Closing Cost?**
 
 According to [*Trulia*](https://www.trulia.com/guides/mortgage-terms/){: target="_blank" rel="noopener"}\:&nbsp;
 
