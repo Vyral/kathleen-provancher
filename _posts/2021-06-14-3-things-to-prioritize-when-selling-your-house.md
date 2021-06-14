@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things To Prioritize When Selling Your House
-date: 2021-06-11 22:00:57
+date: 2021-06-14 22:00:00
 tags:
   - Home Seller Tips
   - Real Estate
