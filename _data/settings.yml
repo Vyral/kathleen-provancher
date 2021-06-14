@@ -44,9 +44,9 @@ client:
   url: https://kprovancher.sorensenrealestate.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.buyandsellvero.com/what-is-my-home-worth
+  first_CTA_URL: https://www.buyandsellvero.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.buyandsellvero.com/search/criteria/gp_1/nids_493127/s_2
+  second_CTA_URL: https://www.buyandsellvero.com/results-gallery/?userID=all
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Vero Beach Home Worth?
