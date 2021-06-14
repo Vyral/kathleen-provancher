@@ -60,7 +60,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a Vero Beach Home?
     CTA_text2: Search the entire MLS for your Vero Beach home.
     CTA_link_text2: Search the MLS
-    CTA_url2: https://www.buyandsellvero.com/search/criteria/gp_1/nids_493127/s_2
+    CTA_url2: https://www.buyandsellvero.com/results-gallery/?userID=all
 lender:
   show_section: false
   header_text: Preferred Lender
