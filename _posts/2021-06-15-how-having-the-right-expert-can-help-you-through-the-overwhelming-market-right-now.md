@@ -4,13 +4,15 @@ title: >-
   How having the right expert can help you through the overwhelming market right
   now?
 date: 2021-06-15 00:00:00
-excerpt:
+excerpt: >-
+  The real estate market is unpredictable at the moment which is why real estate
+  experts are really needed
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/whats-motivating-people-to-move-right-now-1.jpg
 youtube_code:
 ---
 In a normal market, an experienced guide can give you tips and tricks of the buying and selling a real estate property. Advises like pricing your home correctly or what's the first step on buying a home are great but the current market we are having today is really unusual. As a result, having an experienced guide by your side is much more important than it is previously.&nbsp;
