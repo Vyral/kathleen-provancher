@@ -20,7 +20,7 @@ Having your own place to call your home is something to be proud of. If you're h
 
 Hesitation is normal as this is a big decision to make but the more you know why you should own a home, the less hesitant you'll be. To help you decide, we listed the benefits of owning your own house.
 
-## 1\. Privacy
+## **1\. Privacy**
 
 When you're renting a home, you don't have exclusive rights to the property. This means that the landlord or his/her employees may enter at any time, thus, making the property less private and secured.
 
@@ -30,11 +30,11 @@ Owning your own home means that you alone make the rules of entry. No one has th
 
 Although real estate value moves in a cycle, housing values is constantly appreciating. In fact, a double-digit increase in home values was observed last year. Even if you don't plan to stay in the house for the longest time, buying one is a big financial investment for the future.
 
-## &nbsp;3. Comfort and Personal Expression
+## **&nbsp;3. Comfort and Personal Expression**
 
 Nothing beats the feeling of being able to express yourself freely. May it be furniture choices or just overall design. Being a homeowner means that you'll have the freedom to choose without a landlord telling you no.
 
-## &nbsp;4. Be a Part of a Social Group
+## &nbsp;**4\. Be a Part of a Social Group**
 
 Being a homeowner means that you'll have a permanent place. This gives you the opportunity to be a part of a bigger social group. From Home owners Association to community events, there's no limit to what you can&nbsp; enjoy.
 
