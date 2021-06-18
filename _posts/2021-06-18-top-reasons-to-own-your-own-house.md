@@ -16,10 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/videoblog-1.png
 youtube_code:
 ---
-![](/uploads/pexels-kindel-media-7578977.jpg){: width="5184" height="2920"}
-
-&nbsp;
-
 Having your own place to call your home is something to be proud of. If you're having a hard time to decide whether to make your first home purchase, you've probably researched or asked your friends and family, many of whom are encouraging you to buy a home. That being said, you may still have second thoughts if buying a home is the right thing to do.
 
 Hesitation is normal as this is a big decision to make but the more you know why you should own a home, the less hesitant you'll be. To help you decide, we listed the benefits of owning your own house.
