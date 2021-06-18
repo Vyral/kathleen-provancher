@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Reasons to Own Your Own House
-date: 2021-06-15 22:10:23
+date: 2021-06-18 22:10:00
 tags:
   - Home Buyer Tips
   - Real Estate
