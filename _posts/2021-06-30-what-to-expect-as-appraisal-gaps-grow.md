@@ -7,8 +7,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/videoblog-6.png
 youtube_code:
 ---
 Based on National Association of Realtors’ Realtors Confidence Index,&nbsp;**[54%](https://cdn.nar.realtor/sites/default/files/documents/2021-05-realtors-confidence-index-06-22-2021.pdf)**&nbsp;of homes in the market are getting offers over its listing price\! With the current low inventory and high demand real estate market, buyers are flocking over the available inventory which results to a bidding war. Shawn Telford,&nbsp;*Chief Appraiser*&nbsp;at&nbsp;*CoreLogic*,&nbsp;[elaborates](https://www.seattletimes.com/business/homebuyers-increasingly-willing-to-pay-above-asking-price/){: target="_blank" rel="noreferrer noopener"}\:
