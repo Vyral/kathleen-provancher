@@ -5,7 +5,10 @@ date: 2021-07-06 00:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: A Look at Home Price Appreciation Through 2025
+excerpt: >-
+  We saw a significant increase in home pricing and real estate properties over
+  the last year, which led to a higher net worth for the homeowners. But what
+  about the upcoming years?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
