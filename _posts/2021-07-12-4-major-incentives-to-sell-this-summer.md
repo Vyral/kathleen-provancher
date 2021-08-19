@@ -5,7 +5,7 @@ date: 2021-07-12 00:00:00
 tags:
   - Home Seller Tips
   - Real Estate
-excerpt: "he housing market forecast for the\_second half\_of the year remains positive. You might be thinking “I’ll wait until I can get more profit from selling my house”, but there may not be a better time to sell than right now! We listed four things to consider if you’re trying to decide if you want to make the move now."
+excerpt: "The housing market forecast for the\_second half\_of the year remains positive. You might be thinking “I’ll wait until I can get more profit from selling my house”, but there may not be a better time to sell than right now! We listed four things to consider if you’re trying to decide if you want to make the move now."
 enclosure:
 pullquote:
 enclosure_type: video/mp4
