@@ -16,4 +16,4 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-39.png
 youtube_code:
 ---
-![](/20210806-mem-1-1046x2364.png){: width="1046" height="2364"}
+## ![](/teamprovancherinfographic.png)
