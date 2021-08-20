@@ -16,9 +16,9 @@ use_youtube_image: false
 youtube_alternate_image: /videoblog-16.png
 youtube_code:
 ---
-# &nbsp;
+# ![](/team-provancher.jpg){: width="1500" height="1000"}
 
-![](/pexels-ketut-subiyanto-4246061.jpg){: width="5815" height="3877"}
+&nbsp;
 
 There’s a common misconception that younger generations aren’t interested in homeownership. Many people point to the fact that millennials put off purchasing their first home as a reason for this belief.
 
