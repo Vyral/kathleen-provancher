@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /videoblog-16.png
 youtube_code:
 ---
-# ![](/team-provancher.jpg){: width="1500" height="1000"}
+# ![](/team-provancher-1.jpg){: width="750" height="500"}
 
 &nbsp;
 
