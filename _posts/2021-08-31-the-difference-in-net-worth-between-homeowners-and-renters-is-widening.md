@@ -15,7 +15,7 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-49.png
 youtube_code:
 ---
-![](/pexels-kindel-media-7578893.jpg){: width="2000" height="1127"}
+![](/pexels-kindel-media-7578894.jpg){: width="1500" height="845"}
 
 Becoming financially secure is an important goal for many people today, but some don’t realize just how much homeownership can help them achieve that dream. A recent report,&nbsp;[*The Journey Toward Financial Freedom*](https://www.personalcapital.com/assets/email/PCA-Empower-Financial-Wellness-Report.pdf){: target="_blank" rel="noreferrer noopener"}*,*&nbsp;surveys Americans about their perspective on financial wellness and their goals. It shows there may be a significant misconception about the role owning a home plays in building wealth:
 
