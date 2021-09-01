@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-50.png
 youtube_code:
 ---
-![](/pexels-kindel-media-7578977-1.jpg){: width="5184" height="2920"}<!-- wp:paragraph -->
+![](/pexels-kindel-media-7578977-1-1.jpg){: width="1500" height="845"}<!-- wp:paragraph -->
 
 As&nbsp;[rent prices](https://www.buyandsellvero.com/blog/with-rents-on-the-rise-is-now-the-time-to-buy/)&nbsp;continue to soar, many renters want to know what they can do to get ready to buy their first home. According to recent data from&nbsp;[*ApartmentList.com*](https://www.apartmentlist.com/research/national-rent-data){: target="_blank" rel="noreferrer noopener"}\:
 <!-- /wp:paragraph --><!-- wp:quote -->
