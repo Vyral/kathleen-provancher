@@ -18,6 +18,8 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-55.png
 youtube_code:
 ---
+![](/orig-boomver-1-246237-2.jpg){: width="1024" height="681"}
+
 If you’re trying to decide when to sell your house, there may not be a better time to list than right now. The ultimate&nbsp;[sellers](https://www.buyandsellvero.com/blog/what-does-being-in-a-sellers-market-mean/)’ market we’re in today won’t last forever. If you’re thinking of making a move,&nbsp;**here are four reasons to put your house up for sale sooner rather than later.**
 
 ## **1\. Your House Will Likely Sell Quickly**
@@ -28,17 +30,19 @@ Average days on market is a strong indicator of buyer&nbsp;[demand](https://www.
 
 ## **2\. Buyers Are Willing To Compete for Your House**
 
-&nbsp;
+![](/20210907-mem-eng-1.png){: width="1000" height="750"}
 
 In addition to selling quickly, homes are receiving multiple offers.&nbsp;**That same survey shows sellers are seeing an average of 4.5 offers**, and they’re competitive ones. The graph below shows how the average number of offers right now compares to previous years:Buyers today know&nbsp;[bidding wars](https://www.buyandsellvero.com/blog/what-to-expect-as-appraisal-gaps-grow/)&nbsp;are a likely outcome, and they’re coming prepared with their best offer in hand. Receiving several offers on your house means you can select the one that makes the most sense for your situation and financial well-being.
 
 ## **3\. When Supply Is Low, Your House Is in the Spotlight**
 
-&nbsp;
+![](/20210907-mem-eng-2.png){: width="1000" height="750"}
 
 One of the most significant challenges for motivated buyers is the current inventory of homes for sale. Though it’s improving, it remains at near-record lows. The&nbsp;[chart](https://www.nar.realtor/newsroom/existing-home-sales-climb-2-0-in-July){: target="_blank" rel="noreferrer noopener"}&nbsp;below shows how today’s low inventory stacks up against recent years. The lighter the blue is in the chart, the lower the housing supply.If you’re looking to take advantage of buyer demand and get the most attention for your house,&nbsp;[selling now](https://www.mykcm.com/2021/08/25/why-2021-is-still-the-year-to-sell-your-house/)&nbsp;before more listings come to the market might be your best option.
 
 ## **4\. If You’re Thinking of Moving Up, Now May Be the Time**
+
+&nbsp;
 
 If your current home no longer meets your needs, it may be the perfect time to make a move. Today, homeowners are gaining a significant amount of wealth through growing equity. You can leverage that equity, plus current&nbsp;[low mortgage rates](https://www.buyandsellvero.com/blog/what-do-experts-say-about-todays-mortgage-rates/), to power your move now. But these near-historic low rates won’t last forever.
 
