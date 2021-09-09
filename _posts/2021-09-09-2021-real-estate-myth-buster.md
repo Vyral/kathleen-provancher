@@ -5,7 +5,7 @@ date: 2021-09-09 00:00:00
 tags:
   - Market Update
   - Real Estate
-excerpt: Here are 5 common misconceptions about today's competitive rea estate market!
+excerpt: Here are 5 common misconceptions about today's competitive real estate market!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
