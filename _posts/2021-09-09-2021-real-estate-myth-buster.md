@@ -14,4 +14,4 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-1.png
 youtube_code:
 ---
-![](/kcm-infographic-1631193524.png){: width="1300" height="2903"}
+![](/kcm-infographic-1631193524-1.png){: width="900" height="2010"}
