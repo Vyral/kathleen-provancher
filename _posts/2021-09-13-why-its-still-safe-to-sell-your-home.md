@@ -15,6 +15,8 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-2.png
 youtube_code:
 ---
+![](/pexels-alena-darmel-7641828-1.jpg){: width="750" height="500"}
+
 If you’re on the fence about whether or not you want to sell your house this year, there’s good news.&nbsp;[Real estate professionals](https://www.buyandsellvero.com/blog/how-the-right-expert-can-help-you-through-the-overwhelming-market/)&nbsp;are highly experienced in how to sell houses safely during the pandemic. Over the last year, agents have adopted new technologies and safety measures designed to keep you safe. And experts say these practices are here to stay. As Bob Goldberg, CEO of the&nbsp;*National Association of Realtors*&nbsp;(NAR),&nbsp;[puts it](https://www.nar.realtor/newsroom/realtors-believe-drones-cyber-security-real-estates-most-impactful-emerging-tech){: target="_blank" rel="noreferrer noopener"}\:
 
 > *“The pandemic has confirmed to all of us in the industry that**&nbsp;technology will continue to transform real estate**.”*
@@ -39,4 +41,4 @@ This past year changed the way agents do things for the better. Real estate prof
 
 It’s important to know that your safety is still a top priority when it comes to selling this year. Let’s connect today so you can have the best tools available to help you take advantage of today’s sellers’ market.
 
-![](/pexels-alena-darmel-7641828.jpg){: width="4893" height="3262"}
+&nbsp;
