@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-3.png
 youtube_code:
 ---
-![](/pexels-lukas-317356.jpg){: width="6144" height="4069"}
+![](/pexels-lukas-317356-1.jpg){: width="1000" height="663"}
 
 When it comes to the latest news in&nbsp;[real estate](https://www.buyandsellvero.com/blog/5-reasons-todays-housing-market-is-anything-but-normal/), there are a lot of sensational headlines in the media. In times like this, when it can be hard to know what to believe, put your trust in the&nbsp;[experts](https://www.buyandsellvero.com/blog/how-the-right-expert-can-help-you-through-the-overwhelming-market/). Those of us in the housing market respect that buying or selling a home is a major life decision, and we offer advice based on what the data shows.
 
@@ -28,7 +28,7 @@ Despite what you may have read, the housing market is still undeniably strong. H
 
 ##### [Odeta Kushi](https://twitter.com/odetakushi/status/1433074722028273665){: target="_blank" rel="noreferrer noopener"}, Deputy Chief Economist at&nbsp;*First American*\:
 
-> *“Seasonally adjusted purchase applications tick up slightly to the highest level since July.&nbsp;**Demand for homes remains strong and steady.**&nbsp;Excluding 2020 (not a good benchmark)&nbsp;**purchase applications are the strongest in a decade**.”**&nbsp;*
+> *“Seasonally adjusted purchase applications tick up slightly to the highest level since July.&nbsp;**Demand for homes remains strong and steady.**&nbsp;Excluding 2020 (not a good benchmark)&nbsp;**purchase applications are the strongest in a decade**.”\*\*&nbsp;*
 
 ##### [Selma Hepp](https://www.corelogic.com/intelligence/u-s-sp-corelogic-case-shiller-reflects-consumer-post-vaccination-optimism-surges-18-6/){: target="_blank" rel="noreferrer noopener"}, Deputy Chief Economist at&nbsp;*CoreLogic*\:
 
