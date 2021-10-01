@@ -16,4 +16,4 @@ use_youtube_image: false
 youtube_alternate_image: /how-the-right-expert-can-help-you-through-the-overwhelming-market-19.png
 youtube_code:
 ---
-![](/20211001-mema.png){: width="1300" height="2475"}
+![](/20211001-mema-1.png){: width="1300" height="2475"}
