@@ -14,7 +14,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: >-
     /uploads/how-the-right-expert-can-help-you-through-the-overwhelming-market-30.png
 youtube_code:
