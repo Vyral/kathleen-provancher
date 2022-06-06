@@ -17,31 +17,31 @@ custom_links_new_tab:
     url:
 client:
   name: Kathleen Provancher
-  title:
+  title: Realtor®
   license_number:
-  about_markdown: >
+  about_markdown: >-
     After graduating from Binghamton University with a degree in Psychology, I
     went on to earn my Professional Pilot Certifications through Jacksonville
     University. My husband and I have been avid real estate investors since
-    1998. Formerly with another brokerage, I was a part of their #1 real estate
+    1998. Formerly with another brokerage, I was a part of their \#1 real estate
     team. I then went on to join Dale Sorensen Real Estate, where I continue to
     bring my clients the best possible service and marketing. I am active in
     numerous children's charities, as well. My husband Todd, a pilot with
     Southwest Airlines, and I reside on the barrier island with our two
     children.
   brand: Team Provancher
-  brokerage:
+  brokerage: eXp Realty, LLC
   market: Vero Beach
-  address: 3206 Cardinal Drive., Vero Beach, FL 32963
-  address_type: Cardinal Office
-  address2: 1961 14th Avenue., Vero Beach, FL 32960
-  address2_type: Downtown Vero Office
+  address: 333 17th St Suite F Vero Beach, FL 32960
+  address_type:
+  address2:
+  address2_type:
   phone: 772-538-9700
   phone_type: Cell
-  phone2: 772-492-5358
+  phone2: 772-231-4712
   phone2_type: Office
-  email: kprovancher@sorensenrealestate.com
-  url: https://kprovancher.sorensenrealestate.com
+  email: kathleen@teamprovancher.com
+  url: BuyAndSellVero.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.buyandsellvero.com/home-valuation/
