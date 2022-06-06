@@ -106,10 +106,10 @@ podcast:
   author: Kathleen Provancher
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/exp-realty---black-01-1.jpg
   logo_width_number: 20
   hero_text: Vero Beach Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
