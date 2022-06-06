@@ -32,9 +32,9 @@ client:
   brand: Team Provancher
   brokerage: eXp Realty, LLC
   market: Vero Beach
-  address: 333 17th St Suite F Vero Beach, FL 32960
+  address: '333 17th St Suite F '
   address_type:
-  address2:
+  address2: Vero Beach, FL 32960
   address2_type:
   phone: 772-538-9700
   phone_type: Cell
