@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
   - Market Update
-excerpt:
+excerpt: The Latest on the Luxury Home Market
 enclosure:
 pullquote:
 enclosure_type: video/mp4
