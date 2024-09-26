@@ -44,6 +44,6 @@ In addition, a luxury home could help you build significant long-term wealth. * 
 
 ### **Bottom Line**
 
-With more million-dollar homes on the market and prices going up, you have luxury options to choose from and a chance to build significant long-term wealth. Want to see the best homes in our area? Let’s [get in touch](https://buyandsellvero.com/properties "Home Valuation"){: target="_blank" rel="noreferrer noopener"} today.
+With more million-dollar homes on the market and prices going up, you have luxury options to choose from and a chance to build significant long-term wealth. Want to see the best homes in our area? Let’s [get in touch](https://buyandsellvero.com/agent/kathleen-provancher "Let's Get In Touch!"){: target="_blank" rel="noopener"} today.
 
 &nbsp;
