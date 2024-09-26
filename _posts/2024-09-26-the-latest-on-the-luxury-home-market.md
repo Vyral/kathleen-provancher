@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/20240905-the-latest-on-the-luxury-home-market-original.png
 youtube_code:
 ---
 ## **The Latest on the Luxury Home Market**
