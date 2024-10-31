@@ -26,7 +26,7 @@ youtube_code:
 
 &nbsp;
 
-You may have heard chatter recently about the economy and talk about a possible recession. It's no surprise that kind of noise gets some people worried about a housing market crash. Maybe you’re one of them. But here’s the good news – there’s no need to panic. The [housing market](https://www.simplifyingthemarket.com/2024/09/06/early-forecasts-for-the-2025-housing-market-infographic/?a=756766-5aa96cf21f40ef72c25018d99911fe40) is not set up for a crash right now.
+You may have heard chatter recently about the economy and talk about a possible recession. It’s no surprise that kind of noise gets some people worried about a housing market crash. Maybe you’re one of them. But here’s the good news – there’s no need to panic. The [housing market](https://www.simplifyingthemarket.com/2024/09/06/early-forecasts-for-the-2025-housing-market-infographic/?a=756766-5aa96cf21f40ef72c25018d99911fe40) is not set up for a crash right now.
 
 Real estate journalist Michele Lerner [says](https://finance.yahoo.com/personal-finance/when-will-the-housing-market-crash-again-170038789.html){: target="_blank" rel="noreferrer noopener"}:
 
