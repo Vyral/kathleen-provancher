@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Is the Sweet Spot Homebuyers Have Been Waiting For
-date:
+date: 2024-10-31 14:47:00
 tags:
   - Market Update
   - Real Estate
@@ -36,7 +36,7 @@ The truth is, if mortgage rates continue to ease, as experts project, more buyer
 
 [![No Caption Received](https://files.keepingcurrentmatters.com/KeepingCurrentMatters/content/images/20240930/20241001-Over-half-of-homeowners-would-be-motivated-to-buy-this-year-original.png)](https://files.keepingcurrentmatters.com/KeepingCurrentMatters/content/images/20240930/20241001-Over-half-of-homeowners-would-be-motivated-to-buy-this-year-original.png){: target="_blank" rel="noreferrer noopener"}With rates already in the low 6% range, we’re not terribly far off from hitting that threshold. The bottom line is, that when they drop into the 5s, the number of buyers in the market is going to go up – and that means more competition for you.
 
-That increased demand will likely push home prices up, which could potentially take away from some of the benefits you'd gain from a slightly lower interest rate. As Nadia Evangelou, Senior Economist and Director of Real Estate Research at the *National Association of Realtors* (NAR), [explains](https://www.nar.realtor/blogs/economists-outlook/the-upcoming-rate-cut-5-things-homebuyers-should-consider){: target="_blank" rel="noreferrer noopener"}:
+That increased demand will likely push home prices up, which could potentially take away from some of the benefits you’d gain from a slightly lower interest rate. As Nadia Evangelou, Senior Economist and Director of Real Estate Research at the *National Association of Realtors* (NAR), [explains](https://www.nar.realtor/blogs/economists-outlook/the-upcoming-rate-cut-5-things-homebuyers-should-consider){: target="_blank" rel="noreferrer noopener"}:
 
 > *“The downside of increased demand is that it puts upward pressure on home prices as multiple buyers compete for a limited number of homes. In markets with ongoing housing shortages, **this price increase can offset some of the affordability gains from lower mortgage rates**.”*
 
@@ -50,7 +50,7 @@ At the same time, affordability has already improved quite a bit. Recent easing 
 
 > *“Mortgage payments on the typical-price home are 7% lower than last year and are **13% lower than the peak in May 2024**.”*
 
-And while the supply of homes for sale is still low, it's also higher than it’s been in years. [According](https://www.realtor.com/research/august-2024-data/){: target="_blank" rel="noreferrer noopener"} to Ralph McLaughlin, Senior Economist at *Realtor.com*:
+And while the supply of homes for sale is still low, it’s also higher than it’s been in years. [According](https://www.realtor.com/research/august-2024-data/){: target="_blank" rel="noreferrer noopener"} to Ralph McLaughlin, Senior Economist at *Realtor.com*:
 
 > *“The number of homes actively for sale continues to be elevated compared with last year, growing by 35.8%, a 10th straight month of growth, **and now sits at the highest since May 2020**.”*
 
