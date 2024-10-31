@@ -52,7 +52,7 @@ A bigger down payment doesn’t just help you reduce how much you have to borrow
 
 If you can put down 20% or more, you can avoid Private Mortgage Insurance (PMI), which is an added cost many buyers have to pay if their down payment isn’t as large. *Freddie Mac* explains it like [this](https://myhome.freddiemac.com/buying/breaking-down-pmi){: target="_blank" rel="noreferrer noopener"}:
 
-> *“For homeowners who put less than 20% down, Private Mortgage Insurance or PMI is an added insurance policy for homeowners that protects the lender if you are unable to pay your mortgage. It is not the same thing as homeowner's insurance. It's a monthly fee, rolled into your mortgage payment, that’s required if you make a down payment less than 20%.”*
+> *“For homeowners who put less than 20% down, Private Mortgage Insurance or PMI is an added insurance policy for homeowners that protects the lender if you are unable to pay your mortgage. It is not the same thing as homeowner’s insurance. It’s a monthly fee, rolled into your mortgage payment, that’s required if you make a down payment less than 20%.”*
 
 Avoiding PMI means you’ll have one less expense to worry about each month, which is a nice bonus.
 
