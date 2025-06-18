@@ -26,7 +26,7 @@ client:
     1998. Formerly with another brokerage, I was a part of their \#1 real estate
     team. I then went on to join Dale Sorensen Real Estate, where I continue to
     bring my clients the best possible service and marketing. I am active in
-    numerous children's charities, as well. My husband Todd, a pilot with
+    numerous children’s charities, as well. My husband Todd, a pilot with
     Southwest Airlines, and I reside on the barrier island with our two
     children.
   brand: Team Provancher
@@ -106,7 +106,7 @@ podcast:
   author: Kathleen Provancher
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /uploads/exp-realty---black-01-2.png
+  hero_logo_path:
   logo_width_number: 20
   hero_text: Vero Beach Real Estate Video Blog
   hero_background_hex: '#999999'
