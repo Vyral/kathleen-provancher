@@ -34,7 +34,7 @@ But here’s what’s important to understand: even with this increase, inventor
 
 The reason? We’re not dealing with a glut of homes — we’re still working through a major shortage. For over a decade, new home construction hasn’t kept pace with the number of households being formed. That has created a significant housing deficit.
 
-The red bars in the graph below represent the years since 2012 when new home construction lagged behind household growth. The deeper the red, the larger the shortfall — and the more it illustrates the long-term imbalance we're still trying to correct.
+The red bars in the graph below represent the years since 2012 when new home construction lagged behind household growth. The deeper the red, the larger the shortfall — and the more it illustrates the long-term imbalance we’re still trying to correct.
 
 ![](/uploads/20250521-americas-housing-deficit-original.png){: width="1280" height="720"}
 
