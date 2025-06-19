@@ -46,7 +46,7 @@ Sometimes, this simple guidance is all you need. But if your home is vacant or n
 
 According to NAR:
 
-> “The median dollar value spent when using a staging service was $1,500, compared to $500 when the seller's agent personally staged the home.”
+> “The median dollar value spent when using a staging service was $1,500, compared to $500 when the seller’s agent personally staged the home.”
 
 Your agent will help you weigh the potential return on investment based on your budget, your timeline, the condition of your home, and how similar homes are performing in your local market.
 
