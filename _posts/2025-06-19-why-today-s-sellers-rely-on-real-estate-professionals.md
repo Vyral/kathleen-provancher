@@ -3,13 +3,17 @@ layout: post
 title: Why Today’s Sellers Rely on Real Estate Professionals
 date: 2025-06-19 00:00:00
 tags:
+  - Real Estate
+  - Home Buyer Tips
+  - Market Update
+  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/your-paragraph-text.png
 youtube_code:
 ---
 # Why Today’s Sellers Rely on Real Estate Professionals
