@@ -41,7 +41,7 @@ client:
   phone2:
   phone2_type:
   email: kathleen@teamprovancher.com
-  url: BuyAndSellVero.com
+  url: https://BuyAndSellVero.com
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.buyandsellvero.com/home-valuation/
